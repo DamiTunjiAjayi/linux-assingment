@@ -1,0 +1,2 @@
+I am learning Node.js because I want to build efficient, scalable network applications. 
+Node.js’s event-driven architecture and vast ecosystem inspire me to create innovative solutions and continuously improve my programming skills.
